@@ -1,6 +1,5 @@
 - Hi, I’m @avi4778
 - I’m interested in data related stuff
-- I’m currently learning ... Data Science from integrify Academy
 - you can reach me here:  avinash4778@gmail.com 
                          
                           
