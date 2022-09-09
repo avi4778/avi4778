@@ -1,6 +1,6 @@
 - Hi, I’m @avi4778
 - I’m interested in data related stuff
-- you can reach me here:  avinash4778@gmail.com 
+- Email:  avinash4778@gmail.com 
                          
                           
 
