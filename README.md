@@ -1,4 +1,4 @@
-- Hi, I’m @avi4778
+- Hi, I’m Avinash
 - I’m interested in data related stuff
 - Email:  avinash4778@gmail.com 
                          
