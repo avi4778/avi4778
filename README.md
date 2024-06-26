@@ -3,7 +3,7 @@
 
 
 
-- Analytics: Excel, Power BI, Deep Note, Jupyter NoteBook, Google Sheets, Data Studio, Python
+- Analytics: Excel, Power BI, Google Sheets, Data Studio, Python
 - Databases: MySQL, Google BiqQuery, MS SQL Server
 - Notes and report writing: Notion, Markdown, and Latex
 
